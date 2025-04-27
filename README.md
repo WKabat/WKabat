@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Wiktor 👋</h1>
 
 <p align="center">
-  <em>Drummer | Frontend Developer | Music School Student </em>
+  <em>Drummer | Learning Developer Trainee | Music School Student </em>
 </p>
 
 ---
